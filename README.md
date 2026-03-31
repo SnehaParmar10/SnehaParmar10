@@ -5,12 +5,12 @@
 
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20there!%20I'm%20Ashish%20Yadav&fontSize=48&fontColor=fff&fontAlign=50&fontAlignY=40&animation=twinkling&desc=Full%20Stack%20Developer%20|%20LeetCode%20Enthusiast%20|%20Innovation%20Seeker&descAlign=50&descAlignY=55&descFontSize=22&descColor=fff" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20there!%20I'm%Sneha%20Parmar&fontSize=48&fontColor=fff&fontAlign=50&fontAlignY=40&animation=twinkling&desc=Full%20Stack%20Developer%20|%20LeetCode%20Enthusiast%20|%20Innovation%20Seeker&descAlign=50&descAlignY=55&descFontSize=22&descColor=fff" alt="Header Banner" />
 </div>
 
 <!-- GitHub Profile Trophy -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=itsashish1&theme=algolia&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SnehaParmar10&theme=algolia&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&row=1" alt="GitHub Trophies" />
 </p>
 
 <!-- Animated Typing Introduction -->
@@ -81,17 +81,17 @@ My journey combines **technical excellence** with **continuous learning** - from
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=itsashish1&show_icons=true&theme=algolia&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180" /></td>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=itsashish1&theme=algolia&hide_border=true&border_radius=8" alt="Streak Stats" height="180" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=SnehaParmar10&show_icons=true&theme=algolia&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180" /></td>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=SnehaParmar10&theme=algolia&hide_border=true&border_radius=8" alt="Streak Stats" height="180" /></td>
     </tr>
     <tr>
-      <td colspan="2"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsashish1&layout=compact&theme=algolia&hide_border=true&langs_count=8" alt="Top Languages" height="180" /></td>
+      <td colspan="2"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnehaParmar10&layout=compact&theme=algolia&hide_border=true&langs_count=8" alt="Top Languages" height="180" /></td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsashish1&theme=algolia" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SnehaParmar10&theme=algolia" alt="Profile Summary" />
 </div>
 
 ---
@@ -108,11 +108,11 @@ My journey combines **technical excellence** with **continuous learning** - from
 ### 🔗 Featured Repositories
 
 <div align="center">
-  <a href="https://github.com/itsashish1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsashish1&repo=itsashish1&theme=algolia&hide_border=true" alt="Profile Repo" />
+  <a href="https://github.com/SnehaParmar10">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SnehaParmar10&repo=SnehaParmar10&theme=algolia&hide_border=true" alt="Profile Repo" />
   </a>
   <a href="https://github.com/itsashish1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsashish1&repo=itsashish1&theme=algolia&hide_border=true" alt="Pinned Repo" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SnehaParmar10&repo=SnehaParmar10&theme=algolia&hide_border=true" alt="Pinned Repo" />
   </a>
 </div>
 
@@ -178,7 +178,7 @@ My journey combines **technical excellence** with **continuous learning** - from
   <table>
     <tr>
       <td align="center">
-        <a href="https://www.linkedin.com/in/gtc-ashish/" target="_blank">
+        <a href="https://www.linkedin.com/in/sneha-rajput10" target="_blank">
           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
         </a>
       </td>
@@ -188,7 +188,7 @@ My journey combines **technical excellence** with **continuous learning** - from
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/itsashish1" target="_blank">
+        <a href="https://github.com/SnehaParmar10" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
         </a>
       </td>
@@ -200,9 +200,9 @@ My journey combines **technical excellence** with **continuous learning** - from
 
 | Platform | Link | Status |
 |----------|------|--------|
-| **LinkedIn** | [linkedin.com/in/gtc-ashish](https://www.linkedin.com/in/gtc-ashish/) | ✅ Active |
-| **LeetCode** | [leetcode.com/u/itsashish1](https://leetcode.com/u/itsashish1/) | ✅ Active |
-| **GitHub** | [github.com/itsashish1](https://github.com/itsashish1) | ✅ Active |
+| **LinkedIn** | [linkedin.com/in/SnehaParmar10](https://www.linkedin.com/in/sneha-rajput10) | ✅ Active |
+| **LeetCode** | [leetcode.com/u/SnehaParmar10](https://leetcode.com/u/itsashish1/) | ✅ Active |
+| **GitHub** | [github.com/SnehaParmar10](https://github.com/SnehaParmar10) | ✅ Active |
 
 ---
 
