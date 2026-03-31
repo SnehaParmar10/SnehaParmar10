@@ -1,16 +1,22 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20there!%20I'm%20Ashish%20Yadav&fontSize=48&fontColor=fff&fontAlign=50&fontAlignY=40&animation=twinkling&desc=Full%20Stack%20Developer%20|%20LeetCode%20Enthusiast%20|%20Innovation%20Seeker&descAlign=50&descAlignY=55&descFontSize=22&descColor=fff" alt="Header Banner" />
+</div>
 
-<!--
-**SnehaParmar10/SnehaParmar10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SnehaParmar10&theme=algolia&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&row=1" alt="GitHub Trophies" />
+</p>
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&color=58a6ff&center=true&vCenter=true&width=600&height=50&lines=Building+Scalable+Applications+%E2%9A%A1;Solving+DSA+Problems+Daily+%F0%9F%92%BB;Full+Stack+Development+%F0%9F%9A%80;Always+Learning+%F0%9F%93%9A" alt="Typing Animation" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🙋‍♂️ About Me
+
+```text
+👨‍💻 Software Developer | B.Tech CSE @ K.R. Mangalam University
+📍 Gurugram, India
+🎯 Passionate about Full Stack Development & Problem Solving
+📚 Lifelong Learner | Open Source Enthusiast
+I'm a passionate Software Developer specializing in building scalable web applications and solving complex algorithmic problems. With hands-on experience in both front-end and back-end technologies, I thrive on turning creative ideas into functional, production-ready solutions.🛠️ Tech Stack & ToolsFrontend Development<div align="center"><img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" /><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" /></div>Backend Development<div align="center"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express" /><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" /></div>📊 GitHub Statistics<div align="center"><table><tr><td><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DSnehaParmar10%26show_icons%3Dtrue%26theme%3Dalgolia%26hide_border%3Dtrue%26count_private%3Dtrue%26include_all_commits%3Dtrue" alt="GitHub Stats" height="180" /></td><td><img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DSnehaParmar10%26theme%3Dalgolia%26hide_border%3Dtrue%26border_radius%3D8" alt="Streak Stats" height="180" /></td></tr><tr><td colspan="2"><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DSnehaParmar10%26layout%3Dcompact%26theme%3Dalgolia%26hide_border%3Dtrue%26langs_count%3D8" alt="Top Languages" height="180" /></td></tr></table></div>💼 Projects#ProjectTech StackStatusDemo1Full Stack Web ApplicationReact.js, Node.js, Express, MongoDB✅ Live🔗 View2REST API DevelopmentNestJS, TypeScript, PostgreSQL✅ Live🔗 View🔗 Featured Repositories<div align="center"><a href="https://github.com/SnehaParmar10"><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3DSnehaParmar10%26repo%3DSnehaParmar10%26theme%3Dalgolia%26hide_border%3Dtrue" alt="Profile Repo" /></a></div>🔗 Connect With Me<div align="center"><table><tr><td align="center"><a href="https://www.linkedin.com/in/sneha-rajput10" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a></td><td align="center"><a href="https://github.com/SnehaParmar10" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a></td></tr></table></div>📬 Let's ConnectPlatformLinkStatusLinkedInlinkedin.com/in/sneha-rajput10✅ ActiveGitHubgithub.com/SnehaParmar10✅ Active<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontSize=22&text=Made%20with%20%E2%9D%A4%EF%B8%8F%20and%20%E2%98%95&fontColor=fff&fontAlign=50&fontAlignY=55" alt="Footer" /></div>
