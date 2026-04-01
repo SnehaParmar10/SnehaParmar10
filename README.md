@@ -120,9 +120,9 @@ My journey combines **technical excellence** with **continuous learning** - from
 ## 🏆 LeetCode Profile
 
 <div align="center">
-  <a href="https://leetcode.com/u/itsashish1/"><img src="https://leetcard.jacoblin.cool/itsashish1?theme=dark&font=Inter&ext=stats" alt="LeetCode Stats" /></a>
+  <a href="https://leetcode.com/u/Sneha_Parmar10"><img src="https://leetcard.jacoblin.cool/itsashish1?theme=dark&font=Inter&ext=stats" alt="LeetCode Stats" /></a>
   <br/><br/>
-  <a href="https://leetcode.com/u/itsashish1/"><img src="https://leetcard.jacoblin.cool/itsashish1?theme=dark&font=Inter&ext=heatmap" alt="LeetCode Heatmap" /></a>
+  <a href="https://leetcode.com/u/Sneha_Parmar10"><img src="https://leetcard.jacoblin.cool/itsashish1?theme=dark&font=Inter&ext=heatmap" alt="LeetCode Heatmap" /></a>
 </div>
 
 ### 📈 Problem Solving Journey
@@ -137,7 +137,7 @@ My journey combines **technical excellence** with **continuous learning** - from
 | **Active Days** | 45+ days past year |
 | **Focus Areas** | DSA, System Design, OOP |
 
-[🔗 Visit my LeetCode Profile](https://leetcode.com/u/itsashish1/)
+[🔗 Visit my LeetCode Profile](https://leetcode.com/u/Sneha_Parmar10)
 
 ---
 
@@ -183,7 +183,7 @@ My journey combines **technical excellence** with **continuous learning** - from
         </a>
       </td>
       <td align="center">
-        <a href="https://leetcode.com/u/itsashish1/" target="_blank">
+        <a href="https://leetcode.com/u/Sneha_Parmar10" target="_blank">
           <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
         </a>
       </td>
@@ -201,7 +201,7 @@ My journey combines **technical excellence** with **continuous learning** - from
 | Platform | Link | Status |
 |----------|------|--------|
 | **LinkedIn** | [linkedin.com/in/SnehaParmar10](https://www.linkedin.com/in/sneha-rajput10) | ✅ Active |
-| **LeetCode** | [leetcode.com/u/SnehaParmar10](https://leetcode.com/u/itsashish1/) | ✅ Active |
+| **LeetCode** | [leetcode.com/u/SnehaParmar10](https://leetcode.com/u/Sneha_Parmar10) | ✅ Active |
 | **GitHub** | [github.com/SnehaParmar10](https://github.com/SnehaParmar10) | ✅ Active |
 
 ---
@@ -216,6 +216,6 @@ My journey combines **technical excellence** with **continuous learning** - from
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontSize=22&text=Made%20with%20%E2%9D%A4%EF%B8%8F%20and%20%E2%98%95&fontColor=fff&fontAlign=50&fontAlignY=55" alt="Footer" />
 
-![Visitor Count](https://komarev.com/ghpvc/?username=itsashish1&color=58a6ff&style=flat-square)
+![Visitor Count](https://komarev.com/ghpvc/?username=SnehaParmar10&color=58a6ff&style=flat-square)
 
 </div>
