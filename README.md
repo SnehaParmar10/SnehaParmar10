@@ -8,6 +8,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20there!%20I'm%Sneha%20Parmar&fontSize=48&fontColor=fff&fontAlign=50&fontAlignY=40&animation=twinkling&desc=Full%20Stack%20Developer%20|%20LeetCode%20Enthusiast%20|%20Innovation%20Seeker&descAlign=50&descAlignY=55&descFontSize=22&descColor=fff" alt="Header Banner" />
 </div>
 
+
 <!-- GitHub Profile Trophy -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SnehaParmar10&theme=algolia&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&row=1" alt="GitHub Trophies" />
