@@ -120,9 +120,9 @@ My journey combines **technical excellence** with **continuous learning** - from
 ## 🏆 LeetCode Profile
 
 <div align="center">
-  <a href="https://leetcode.com/u/Sneha_Parmar10"><img src="https://leetcard.jacoblin.cool/itsashish1?theme=dark&font=Inter&ext=stats" alt="LeetCode Stats" /></a>
+  <a href="https://leetcode.com/u/Sneha_Parmar10"><img src="https://leetcard.jacoblin.cool/SnehaParmar10?theme=dark&font=Inter&ext=stats" alt="LeetCode Stats" /></a>
   <br/><br/>
-  <a href="https://leetcode.com/u/Sneha_Parmar10"><img src="https://leetcard.jacoblin.cool/itsashish1?theme=dark&font=Inter&ext=heatmap" alt="LeetCode Heatmap" /></a>
+  <a href="https://leetcode.com/u/Sneha_Parmar10"><img src="https://leetcard.jacoblin.cool/SnehaParmar10?theme=dark&font=Inter&ext=heatmap" alt="LeetCode Heatmap" /></a>
 </div>
 
 ### 📈 Problem Solving Journey
