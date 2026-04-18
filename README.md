@@ -1,150 +1,97 @@
-<!--
-👋 Hi there! Welcome to my GitHub profile!
-🚀 I build scalable applications & solve real-world problems
--->
 
-<!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20there!%20I'm%20Sneha%20Parmar&fontSize=48&fontColor=fff&fontAlign=50&fontAlignY=40&animation=twinkling&desc=Full%20Stack%20Developer%20|%20LeetCode%20Enthusiast%20|%20Innovation%20Seeker&descAlign=50&descAlignY=55&descFontSize=22&descColor=fff" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Sneha%20Parmar&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20|%20AI%20Enthusiast%20|%20Problem%20Solver&descAlignY=51&descFontSize=20" width="100%" />
 </div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=79C0FF&center=true&vCenter=true&width=500&lines=Crafting+Scalable+Solutions;Architecting+the+Future;Solving+Complex+Algorithms;Passionate+Open+Source+Contributor" alt="Typing SVG" />
+</div>
 
-<!-- GitHub Profile Trophy -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SnehaParmar10&theme=algolia&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&row=1" alt="GitHub Trophies" />
+  <a href="https://github.com/SnehaParmar10">
+    <img src="https://github-profile-trophy.vercel.app/?username=SnehaParmar10&theme=tokyonight&no-bg=true&no-frame=true&column=7" alt="Trophies" />
+  </a>
 </p>
 
-<!-- Animated Typing Introduction -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&color=58a6ff&center=true&vCenter=true&width=600&height=50&lines=Building+Scalable+Applications+%E2%9A%A1;Solving+DSA+Problems+Daily+%F0%9F%92%BB;Full+Stack+Development+%F0%9F%9A%80;Always+Learning+%F0%9F%93%9A" alt="Typing Animation" />
-</div>
-
 ---
 
-## 🙋‍♂️ About Me
-
-```text
-👨‍💻 Software Developer | B.Tech CSE @ K.R. Mangalam University
-📍 Gurugram, India
-🎯 Passionate about Full Stack Development & Problem Solving
-📚 Lifelong Learner | Open Source Enthusiast
-```
-
-I'm a passionate **Software Developer** specializing in building scalable web applications and solving complex algorithmic problems. With hands-on experience in both front-end and back-end technologies, I thrive on turning creative ideas into functional, production-ready solutions.
-
-My journey combines **technical excellence** with **continuous learning** - from crafting elegant code to exploring cutting-edge technologies. I believe in writing clean, maintainable code and contributing to the developer community.
-
----
-
-## 🛠️ Tech Stack & Tools
-
-### Frontend Development
-<div align="center">
-  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-</div>
-
-### Backend Development
-<div align="center">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-</div>
-
-### Databases
-<div align="center">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-</div>
-
-### DevOps & Tools
-<div align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-</div>
-
----
-## 📊 GitHub Statistics
-
-<div align="center">
-  <table>
+### 🚀 About Me
+<div align="left">
+  <table border="0">
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=SnehaParmar10&show_icons=true&theme=algolia&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" height="180" /></td>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=SnehaParmar10&theme=algolia&hide_border=true&border_radius=8&v=662898" alt="Streak Stats" height="180" /></td>
-    </tr>
-    <tr>
-      <td colspan="2"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnehaParmar10&layout=compact&theme=algolia&hide_border=true&langs_count=8" alt="Top Languages" height="180" /></td>
+      <td width="60%" valign="top">
+        Hi there! I'm <b>Sneha Parmar</b>, a Software Developer based in Gurugram, India. I specialize in building high-performance web applications and solving challenging problems on LeetCode. 
+        <br/><br/>
+        ⚡ **B.Tech CSE** @ K.R. Mangalam University
+        <br/>
+        ⚡ **Passionate** about Full Stack Engineering & System Design
+        <br/>
+        ⚡ **Committed** to clean code and continuous learning
+      </td>
+      <td width="40%" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnehaParmar10&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+      </td>
     </tr>
   </table>
 </div>
 
+---
+
+### 🛠️ Tech Stack & Arsenal
+
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <br/>
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <br/>
+  <!-- Databases & Cloud -->
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+---
+
+### 📈 GitHub Statistics
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SnehaParmar10&theme=algolia" alt="Profile Summary" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SnehaParmar10&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SnehaParmar10&theme=tokyonight&hide_border=true&v=1776497535002" height="180" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SnehaParmar10&theme=tokyonight" width="100%" />
 </div>
 
 ---
 
-## 💼 Projects
-
-| # | Project | Tech Stack | Status | Demo |
-|---|---------|-----------|--------|------|
-| 1 | **Full Stack Web Application** | React.js, Node.js, Express, MongoDB | ✅ Live | [🔗 View](https://github.com/SnehaParmar10) |
-| 2 | **REST API Development** | NestJS, TypeScript, PostgreSQL | ✅ Live | [🔗 View](https://github.com/SnehaParmar10) |
-| 3 | **E-commerce Platform** | React, Redux, Spring Boot, MySQL | 🚧 Building | [🔗 View](https://github.com/SnehaParmar10) |
-| 4 | **DSA Problem Solving** | Java, Python, C++ | ✅ Active | [🔗 LeetCode](https://leetcode.com/u/Sneha_Parmar10/) |
-
-### 🔗 Featured Repositories
-
+### 🏆 Competitive Programming
 <div align="center">
-  <a href="https://github.com/SnehaParmar10">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SnehaParmar10&repo=SnehaParmar10&theme=algolia&hide_border=true" alt="Profile Repo" />
+  <a href="https://leetcode.com/u/Sneha_Parmar10">
+    <img src="https://leetcard.jacoblin.cool/Sneha_Parmar10?theme=dark&font=Inter&ext=stats" alt="LeetCode" />
   </a>
 </div>
 
 ---
-## 🏆 LeetCode Profile
+
+### 🔗 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/sneha-rajput10"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:sneha.parmar3222@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/SnehaParmar10"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 <div align="center">
-  <a href="https://leetcode.com/u/Sneha_Parmar10"><img src="https://leetcard.jacoblin.cool/Sneha_Parmar10?theme=dark&font=Inter&ext=stats" alt="LeetCode Stats" /></a>
-  <br/><br/>
-  <a href="https://leetcode.com/u/Sneha_Parmar10"><img src="https://leetcard.jacoblin.cool/Sneha_Parmar10?theme=dark&font=Inter&ext=heatmap" alt="LeetCode Heatmap" /></a>
-</div>
-
----
-
-## 🔗 Connect With Me
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://www.linkedin.com/in/sneha-rajput10" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://leetcode.com/u/Sneha_Parmar10" target="_blank">
-          <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/SnehaParmar10" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%" />
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=SnehaParmar10&color=blueviolet" alt="Visitors" />
 </div>
