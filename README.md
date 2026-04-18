@@ -53,7 +53,7 @@ I'm a passionate **Software Developer** specializing in building scalable web ap
   <table>
     <tr>
       <td><img src="https://github-readme-stats.vercel.app/api?username=SnehaParmar10&show_icons=true&theme=algolia&hide_border=true&count_private=true&include_all_commits=true&v=1776497766037" alt="GitHub Stats" height="180" /></td>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=SnehaParmar10&theme=algolia&hide_border=true&border_radius=8&v=1776497766037" alt="Streak Stats" height="180" /></td>
+      <td><img src="https://streak-stats.demolab.com/?user=SnehaParmar10&theme=algolia&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&v=1776497829532" alt="Streak Stats" height="180" /></td>
     </tr>
   </table>
 </div>
