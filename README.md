@@ -5,7 +5,7 @@
 
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20there!%20I'm%Sneha%20Parmar&fontSize=48&fontColor=fff&fontAlign=50&fontAlignY=40&animation=twinkling&desc=Full%20Stack%20Developer%20|%20LeetCode%20Enthusiast%20|%20Innovation%20Seeker&descAlign=50&descAlignY=55&descFontSize=22&descColor=fff" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20there!%20I'm%20Sneha%20Parmar&fontSize=48&fontColor=fff&fontAlign=50&fontAlignY=40&animation=twinkling&desc=Full%20Stack%20Developer%20|%20LeetCode%20Enthusiast%20|%20Innovation%20Seeker&descAlign=50&descAlignY=55&descFontSize=22&descColor=fff" alt="Header Banner" />
 </div>
 
 
@@ -82,8 +82,8 @@ My journey combines **technical excellence** with **continuous learning** - from
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=SnehaParmar10&show_icons=true&theme=algolia&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180" /></td>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=SnehaParmar10&theme=algolia&hide_border=true&border_radius=8" alt="Streak Stats" height="180" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=SnehaParmar10&show_icons=true&theme=algolia&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" height="180" /></td>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=SnehaParmar10&theme=algolia&hide_border=true&border_radius=8&cache_seconds=1800" alt="Streak Stats" height="180" /></td>
     </tr>
     <tr>
       <td colspan="2"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnehaParmar10&layout=compact&theme=algolia&hide_border=true&langs_count=8" alt="Top Languages" height="180" /></td>
@@ -101,19 +101,16 @@ My journey combines **technical excellence** with **continuous learning** - from
 
 | # | Project | Tech Stack | Status | Demo |
 |---|---------|-----------|--------|------|
-| 1 | **Full Stack Web Application** | React.js, Node.js, Express, MongoDB | ✅ Live | [🔗 View](https://github.com/itsashish1) |
-| 2 | **REST API Development** | NestJS, TypeScript, PostgreSQL | ✅ Live | [🔗 View](https://github.com/itsashish1) |
-| 3 | **E-commerce Platform** | React, Redux, Spring Boot, MySQL | 🚧 Building | [🔗 View](https://github.com/itsashish1) |
-| 4 | **DSA Problem Solving** | Java, Python, C++ | ✅ Active | [🔗 LeetCode](https://leetcode.com/u/itsashish1/) |
+| 1 | **Full Stack Web Application** | React.js, Node.js, Express, MongoDB | ✅ Live | [🔗 View](https://github.com/SnehaParmar10) |
+| 2 | **REST API Development** | NestJS, TypeScript, PostgreSQL | ✅ Live | [🔗 View](https://github.com/SnehaParmar10) |
+| 3 | **E-commerce Platform** | React, Redux, Spring Boot, MySQL | 🚧 Building | [🔗 View](https://github.com/SnehaParmar10) |
+| 4 | **DSA Problem Solving** | Java, Python, C++ | ✅ Active | [🔗 LeetCode](https://leetcode.com/u/Sneha_Parmar10/) |
 
 ### 🔗 Featured Repositories
 
 <div align="center">
   <a href="https://github.com/SnehaParmar10">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SnehaParmar10&repo=SnehaParmar10&theme=algolia&hide_border=true" alt="Profile Repo" />
-  </a>
-  <a href="https://github.com/itsashish1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SnehaParmar10&repo=SnehaParmar10&theme=algolia&hide_border=true" alt="Pinned Repo" />
   </a>
 </div>
 
@@ -125,51 +122,6 @@ My journey combines **technical excellence** with **continuous learning** - from
   <br/><br/>
   <a href="https://leetcode.com/u/Sneha_Parmar10"><img src="https://leetcard.jacoblin.cool/Sneha_Parmar10?theme=dark&font=Inter&ext=heatmap" alt="LeetCode Heatmap" /></a>
 </div>
-
-### 📈 Problem Solving Journey
-
-| Metric | Value |
-|--------|-------|
-| **Total Solved** | 75+ Problems |
-| **Easy** | 21+ Solved |
-| **Medium** | 43+ Solved |
-| **Hard** | 11+ Solved |
-| **Languages** | C++, Java, Python |
-| **Active Days** | 45+ days past year |
-| **Focus Areas** | DSA, System Design, OOP |
-
-[🔗 Visit my LeetCode Profile](https://leetcode.com/u/Sneha_Parmar10)
-
----
-
-## 💼 Experience & Education
-
-### 📚 Education
-- **B.Tech in Computer Science & Engineering**
-  - K.R. Mangalam University, Gurugram, India
-  - Specialization: Full Stack Development & DSA
-
-### 🏢 Industrial Training
-- **Industrial Automation Internship**
-  - Developed C-based simulation utilities for industrial sensor data logging
-  - Gained hands-on experience with communication protocols & system design
-  - Received certification for successful program completion
-
-### 🎯 Certifications
-- Full Stack Web Development
-- Data Structures & Algorithms
-- Industrial Automation & Control Systems
-
----
-## 🎯 Currently Focused On
-
-```
-📖 Deepening knowledge in System Design & Architecture
-🔧 Building production-grade full-stack applications
-🧠 Solving daily DSA challenges on LeetCode
-🚀 Contributing to open-source projects
-📚 Learning about cloud deployment & DevOps
-```
 
 ---
 
@@ -195,28 +147,4 @@ My journey combines **technical excellence** with **continuous learning** - from
       </td>
     </tr>
   </table>
-</div>
-
-### 📬 Let's Connect
-
-| Platform | Link | Status |
-|----------|------|--------|
-| **LinkedIn** | [linkedin.com/in/SnehaParmar10](https://www.linkedin.com/in/sneha-rajput10) | ✅ Active |
-| **LeetCode** | [leetcode.com/u/SnehaParmar10](https://leetcode.com/u/Sneha_Parmar10) | ✅ Active |
-| **GitHub** | [github.com/SnehaParmar10](https://github.com/SnehaParmar10) | ✅ Active |
-
----
-
-<div align="center">
-
-### 🌟 Thanks for visiting my profile! Feel free to explore my repositories.
-
-```text
-💡 "The only way to do great work is to love what you do." - Steve Jobs
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontSize=22&text=Made%20with%20%E2%9D%A4%EF%B8%8F%20and%20%E2%98%95&fontColor=fff&fontAlign=50&fontAlignY=55" alt="Footer" />
-
-![Visitor Count](https://komarev.com/ghpvc/?username=SnehaParmar10&color=58a6ff&style=flat-square)
-
 </div>
