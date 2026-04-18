@@ -83,7 +83,7 @@ My journey combines **technical excellence** with **continuous learning** - from
   <table>
     <tr>
       <td><img src="https://github-readme-stats.vercel.app/api?username=SnehaParmar10&show_icons=true&theme=algolia&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" height="180" /></td>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=SnehaParmar10&theme=algolia&hide_border=true&border_radius=8&cache_seconds=1800" alt="Streak Stats" height="180" /></td>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=SnehaParmar10&theme=algolia&hide_border=true&border_radius=8&v=662898" alt="Streak Stats" height="180" /></td>
     </tr>
     <tr>
       <td colspan="2"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnehaParmar10&layout=compact&theme=algolia&hide_border=true&langs_count=8" alt="Top Languages" height="180" /></td>
